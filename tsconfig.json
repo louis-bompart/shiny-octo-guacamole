@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "types": [
+      "node",
+      "@wdio/sync",
+      "mocha",
+      "expect-webdriverio",
+      "wdio-intercept-service"
+    ]
+  },
+  "include": ["./**/*.ts"]
+}
